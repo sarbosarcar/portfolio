@@ -35,7 +35,7 @@ export default function Hero() {
         transition={{ duration: 0.8, delay: 0.3 }}
         className={`text-[15vw] md:text-[12vw] font-bold ${anton.className}`}
       >
-        TECH STUDENT & WEB DEVELOPER
+        TECH STUDENT & DEVELOPER
       </motion.h1>  
     </section>
     </Fade>
