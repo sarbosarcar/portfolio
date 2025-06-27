@@ -61,7 +61,7 @@ export default function Projects() {
                   alt={project.title}
                   fill
                   className="object-contain rounded-xl"
-                  
+                  unoptimized
                 />
                 <div className="absolute z-10 inset-0 bg-black/0 group-hover:bg-black/0 transition duration-500" />
               </div>
